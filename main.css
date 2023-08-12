@@ -191,3 +191,11 @@ AndyMagwayer
       visibility: hidden;
     }
   }
+
+  img {
+	height: 100%;
+	width: 100%;
+}
+.github-logo {
+	width: 100%;
+}
