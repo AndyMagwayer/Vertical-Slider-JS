@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5023&pause=997&color=F7E833&multiline=true&width=300&height=219&lines=This+is+8+data+types+in+Java+Script)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E91F&width=435&lines=This+is+Data+Types+in+JavaScript)](https://git.io/typing-svg)
 
 ![JS types Photo](https://github.com/AndyMagwayer/Vertical-Slider-JS/blob/main/JavaScript-data-types.svg)
 Infinitely rotating vertical carousel animation. CSS only.
